@@ -1,37 +1,72 @@
-# Hi, I'm Manya 👋
+# Hi, I'm Manya Sethi 👋
 
-I'm a Software Development student at SAIT in Calgary, focused on building AI, cloud, and data-driven applications.
+### Software Development · Applied AI · Cloud & Data
 
-I’m currently building portfolio projects that combine Python, machine learning, Streamlit, SQL, Azure, and data visualization to solve real-world business problems.
+Based in **Calgary, Alberta, Canada**, with a Software Development background at **SAIT**. I build web interfaces, data dashboards, and practical machine learning applications.
 
-## Current Focus
+I'm interested in **junior software developer, frontend developer, and entry-level AI/data opportunities** in Canada.
 
-- Cloud fundamentals with Microsoft Azure
-- AI and machine learning applications
-- Data analytics and dashboarding
-- Enterprise-style software projects
-- Building a professional GitHub portfolio
+## Featured projects
 
-## Featured Project
+### 01 · CareerQuest
+**AI-assisted career preparation · Team project**
 
-### OpsPilot AI
+A team project focused on comparing resumes with job postings and delivering personalized career preparation.
 
-OpsPilot AI is an AI-powered IT service desk intelligence platform that classifies IT support tickets, predicts priority, assigns support teams, identifies SLA risk, and provides analytics.
+**My contribution:** frontend results and interview-question display, dashboard WebSocket result handling, and navigation updates.
 
-- Live Demo: https://opspilot-ai-manya.streamlit.app
-- GitHub Repo: https://github.com/techwizmanya/opspilot-ai
+**Technologies:** React, JavaScript, WebSockets · Team stack: Node.js, Express, MongoDB
 
-## Tech Stack
+Repository access is currently restricted or unavailable through the project connection. A public code link will be added when available.
 
-Python • Streamlit • Pandas • Scikit-learn • SQL • Azure • Git • GitHub • JavaScript • React
+### 02 · Retrofit Canada / GBTAC
+**Building retrofit exploration portal · SAIT capstone · Team project**
 
-## Career Direction
+A web portal for exploring Canadian building retrofit case studies through maps, filters, comparisons, and dashboards.
 
-I’m interested in entry-level software, cloud, AI, and data roles, with a long-term goal of becoming a Data Scientist or AI Engineer.
+**My role:** frontend development, contributing to the portal's screens, interactions, and case-study exploration workflow.
 
-## Currently Working On
+**Technologies:** React, TypeScript, Vite, Leaflet
 
-- Microsoft Azure certifications
-- AI and data portfolio projects
-- Improving my GitHub and LinkedIn profile
-- Building real-world projects for industry readiness
+**Source:** private team repository. This portfolio credits my frontend contribution; the application was developed collaboratively.
+
+### 03 · OpsPilot AI
+**IT support ticket triage · Personal portfolio project**
+
+A machine learning prototype that classifies support tickets, predicts priority, retrieves similar tickets, and presents searchable analytics.
+
+**My work:** Python/Streamlit application, TF-IDF and Logistic Regression pipelines, ticket similarity search, dashboard filters, and CSV export.
+
+**Technologies:** Python, Streamlit, Pandas, scikit-learn
+
+[Explore the repository](https://github.com/techwizmanya/opspilot-ai) · [Open the demo](https://opspilot-ai-manya.streamlit.app)
+
+### 04 · StockDock
+**Storefront prototype · Team project**
+
+A Next.js storefront prototype for browsing and finding products.
+
+**My contribution:** built product-name and category search over sample products, redesigned the homepage with responsive product sections, and connected product navigation to the search page.
+
+**Technologies:** Next.js, React, JavaScript, Firebase
+
+[Explore the team repository](https://github.com/JoltedGeo/StockDockPrototype) · [View my implementation](https://github.com/JoltedGeo/StockDockPrototype/commit/24495bc570186d99436ea611251441c18dc09036)
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS |
+| Data & machine learning | Python, Pandas, scikit-learn, Streamlit, SQL |
+| Cloud & integration | Microsoft Azure, Firebase, REST APIs, WebSockets |
+| Development workflow | Git, GitHub, collaborative project development |
+
+## What I'm building toward
+
+- Software that makes complex information easier to explore and act on.
+- Applied AI projects with clear evaluation, documented limitations, and useful interfaces.
+- Stronger cloud deployment, testing, and technical documentation skills.
+
+---
+
+**Teamwork matters:** team projects above identify my role and credit the shared application. Linked contributions provide a closer look at my individual work.
