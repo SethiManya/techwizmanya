@@ -17,8 +17,6 @@ A team project focused on comparing resumes with job postings and delivering per
 
 **Technologies:** React, JavaScript, WebSockets · Team stack: Node.js, Express, MongoDB
 
-Repository access is currently restricted or unavailable through the project connection. A public code link will be added when available.
-
 ### 02 · Retrofit Canada / GBTAC
 **Building retrofit exploration portal · SAIT capstone · Team project**
 
