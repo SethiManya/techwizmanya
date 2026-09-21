@@ -37,7 +37,7 @@ A machine learning prototype that classifies support tickets, predicts priority,
 
 **Technologies:** Python, Streamlit, Pandas, scikit-learn
 
-[Explore the repository](https://github.com/techwizmanya/opspilot-ai) · [Open the demo](https://opspilot-ai-manya.streamlit.app)
+[Explore the repository](https://github.com/SethiManya/opspilot-ai) · [Open the demo](https://opspilot-ai-manya.streamlit.app)
 
 ### 04 · StockDock
 **Storefront prototype · Team project**
