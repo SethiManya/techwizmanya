@@ -19,7 +19,7 @@ I build web interfaces, data dashboards, and practical machine learning applicat
 | Project | What I worked on | Explore |
 | --- | --- | --- |
 | **CareerQuest** | React results UI, interview-question display, WebSocket result handling, and navigation in a team career-preparation project. | [Project showcase](https://github.com/SethiManya/careerquest-portfolio) |
-| **Retrofit Canada / GBTAC** | Frontend screens and interactions for a capstone portal exploring Canadian building retrofit case studies. | [Project showcase](https://github.com/SethiManya/retrofit-canada-portfolio) |
+| **Retrofit Canada / GBTAC** | Frontend screens and interactions for a capstone portal exploring Canadian building retrofit case studies. | [Live demo](https://delightful-tree-02f1c430f.7.azurestaticapps.net/) · [Showcase](https://github.com/SethiManya/retrofit-canada-portfolio) |
 | **OpsPilot AI** | A personal Python/Streamlit prototype for ticket classification, priority prediction, similar-ticket search, and analytics. | [Code](https://github.com/SethiManya/opspilot-ai) · [Demo](https://opspilot-ai-manya.streamlit.app) |
 | **StockDock** | Product search, responsive homepage sections, and navigation in a team-built Next.js storefront prototype. | [Code & my contribution](https://github.com/SethiManya/stockdock) |
 
